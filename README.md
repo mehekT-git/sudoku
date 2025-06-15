@@ -5,3 +5,7 @@ A responsive Sudoku game in HTML, CSS and Javascript This is a Sudoku game creat
 Drawbacks: • There is no option for a person to go back or anywhere else once he has started the application. • Once the user is done solving the puzzle he/she is not notified with the message.
 
 If I had more time: • Would have solved above two drawbacks. • If placing wrong number give user feedback it is wrong. • Create a reset button. • Create a new game button • Allow for game to be saved and retrieved (possible localstorage)
+
+
+## And the the site is live at :https://mehekt-git.github.io/sudoku/ ##
+please visit the site and enjoy your time playing the mindfull game....
